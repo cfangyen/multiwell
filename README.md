@@ -11,6 +11,8 @@ Directory "Sample data" contains sample image data of C. elegans behavior in a 9
 
 Detailed instruction for "HJ_MultWell_Analysis.m":
 
+To test the script, you can use the sample data from https://www.dropbox.com/scl/fo/obyzskuwrm2guvs9mv8z1/h?rlkey=4mxw1iy2hquddj4kzu24k69pa&dl=0
+
 When running the main function, all the results will be stored in the "_Result_DATA" file. 
 
 The file stores an MxN struct variable called "S".
